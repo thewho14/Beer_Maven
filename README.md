@@ -34,6 +34,8 @@ CODE TABLE OF CONTENTS
 6. App: https://github.com/thewho14/Beer_Maven/blob/master/beer_maven2.py
 
 Old project
-7. Text review scraping and analysis: https://github.com/thewho14/Beer_Maven/blob/master/Beer%20Phrases.ipynb
+7. Text review scraping: https://github.com/thewho14/Beer_Maven/blob/master/Beer%20Text%20Scrapping.ipynb
 
-8.  further text analysis: https://github.com/thewho14/Beer_Maven/blob/master/Beer%20nltk%20and%20countvect.ipynb
+8. analysis: https://github.com/thewho14/Beer_Maven/blob/master/Beer%20Phrases.ipynb
+
+9. further text analysis: https://github.com/thewho14/Beer_Maven/blob/master/Beer%20nltk%20and%20countvect.ipynb
